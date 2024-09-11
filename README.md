@@ -1,16 +1,16 @@
-## Hi there 👋
+### Bos Vindas ao meu perfil
 
-<!--
-**Briancaires/Briancaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Brian de Souza Caires
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](htpps://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na liguagem JavaScript
+
+-Utilizo este espaço para minha organização e compartilhmento dos meu projetos desenvolvidos
+
+### Você entrar em contato comigo 📫
+
+
+cairesbrian09@gmail.com
+
+![](https://tenor.com/pt-BR/view/umm-gif-11714145596342171098)
