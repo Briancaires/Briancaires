@@ -1,8 +1,8 @@
-### Bos Vindas ao meu perfil
+### Boas Vindas ao meu perfil
 
 Meu nome é Brian de Souza Caires
 
--Estou estudando na [Alura](htpps://www.alura.com.br)
+-Estou estudando na [Alura](htpps://www.Alura.com.br)
 
 -Estou me desenvolvendo na liguagem JavaScript
 
