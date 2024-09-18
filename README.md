@@ -2,7 +2,7 @@
 
 Meu nome é Brian de Souza Caires
 
--Estou estudando na [Alura](htpps://www.Alura.com.br)
+-Estou estudando na [Alura](https//www.Alura.com.br)
 
 -Estou me desenvolvendo na liguagem JavaScript
 
